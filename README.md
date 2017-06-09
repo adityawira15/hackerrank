@@ -13,6 +13,7 @@
 * [grading-student.js](https://github.com/adityawira15/hackerrank/blob/master/Algorithms/Warmup/grading-student.js)
 * [compare-the-triplets.java](https://github.com/adityawira15/hackerrank/blob/master/Algorithms/Warmup/compare-the-triplets.java)
 * [a-very-big-sum.java](https://github.com/adityawira15/hackerrank/blob/master/Algorithms/Warmup/a-very-big-sum.java)
+* [diagonal-difference.js](https://github.com/adityawira15/hackerrank/blob/master/Algorithms/Warmup/diagonal-difference.js)
 
 ### Data structures
 
