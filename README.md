@@ -22,3 +22,28 @@
 * [balanced-brackets.js](https://github.com/adityawira15/hackerrank/blob/master/Data%20Structures/Stacks/balanced-brackets.js)
 * [maximum-element.js](https://github.com/adityawira15/hackerrank/blob/master/Data%20Structures/Stacks/maximum-element.js)
 
+### Tutorial
+
+#### Cracking the Coding Interview
+
+##### Data Structures
+* [array:_left-rotation.js](https://github.com/adityawira15/hackerrank/blob/master/Tutorial/Cracking%20the%20Coding%20Interview%20Challenges/Data%20Structures/array:_left-rotation.js)
+* [hash_tables:_ransome-note.js](https://github.com/adityawira15/hackerrank/blob/master/Tutorial/Cracking%20the%20Coding%20Interview%20Challenges/Data%20Structures/hash_tables:_ransome-note.js)
+* [linked-lists:_detect-a-cicle.py](https://github.com/adityawira15/hackerrank/blob/master/Tutorial/Cracking%20the%20Coding%20Interview%20Challenges/Data%20Structures/linked-lists:_detect-a-cicle.py)
+* [queues:_a-tale-of-two-stacks.js](https://github.com/adityawira15/hackerrank/blob/master/Tutorial/Cracking%20the%20Coding%20Interview%20Challenges/Data%20Structures/queues:_a-tale-of-two-stacks.js)
+* [stacks:_balanced-brackets.js](https://github.com/adityawira15/hackerrank/blob/master/Tutorial/Cracking%20the%20Coding%20Interview%20Challenges/Data%20Structures/stacks:_balanced-brackets.js)
+* [string:_making-anagrams.js](https://github.com/adityawira15/hackerrank/blob/master/Tutorial/Cracking%20the%20Coding%20Interview%20Challenges/Data%20Structures/string:_making-anagrams.js)
+* [trees:_is-this-a-binary-search-tree-?.py](https://github.com/adityawira15/hackerrank/blob/master/Tutorial/Cracking%20the%20Coding%20Interview%20Challenges/Data%20Structures/trees:_is-this-a-binary-search-tree-%3F.py)
+
+##### Algorithms
+* [binary-search:_ice-cream-parlor.js](https://github.com/adityawira15/hackerrank/blob/master/Tutorial/Cracking%20the%20Coding%20Interview%20Challenges/Algorithms/binary-search:_ice-cream-parlor.js)
+* [dfs:_connected-cell-in-a-grid.py](https://github.com/adityawira15/hackerrank/blob/master/Tutorial/Cracking%20the%20Coding%20Interview%20Challenges/Algorithms/dfs:_connected-cell-in-a-grid.py)
+* [sorting:_buble-sort.js](https://github.com/adityawira15/hackerrank/blob/master/Tutorial/Cracking%20the%20Coding%20Interview%20Challenges/Algorithms/sorting:_buble-sort.js)
+* [sorting:_comporator.py](https://github.com/adityawira15/hackerrank/blob/master/Tutorial/Cracking%20the%20Coding%20Interview%20Challenges/Algorithms/sorting:_comporator.py)
+
+##### Techniques or Concepts
+* [bit-manipulation:_lonely-integer.js](https://github.com/adityawira15/hackerrank/blob/master/Tutorial/Cracking%20the%20Coding%20Interview%20Challenges/Techniques%20or%20Concepts/bit-manipulation:_lonely-integer.js)
+* [dp:_coin-change.py](https://github.com/adityawira15/hackerrank/blob/master/Tutorial/Cracking%20the%20Coding%20Interview%20Challenges/Techniques%20or%20Concepts/dp:_coin-change.py)
+* [recursion:_davis'-staircase.js](https://github.com/adityawira15/hackerrank/blob/master/Tutorial/Cracking%20the%20Coding%20Interview%20Challenges/Techniques%20or%20Concepts/recursion:_davis'-staircase.js)
+* [recursion:_fibonacci-numbers.js](https://github.com/adityawira15/hackerrank/blob/master/Tutorial/Cracking%20the%20Coding%20Interview%20Challenges/Techniques%20or%20Concepts/recursion:_fibonacci-numbers.js)
+* [time-complexity:_primality.py](https://github.com/adityawira15/hackerrank/blob/master/Tutorial/Cracking%20the%20Coding%20Interview%20Challenges/Techniques%20or%20Concepts/time-complexity:_primality.py)
