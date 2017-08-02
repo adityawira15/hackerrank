@@ -29,15 +29,19 @@
 ##### Data Structures
 * [array:_left-rotation.js](https://github.com/adityawira15/hackerrank/blob/master/Tutorial/Cracking%20the%20Coding%20Interview%20Challenges/Data%20Structures/array:_left-rotation.js)
 * [hash_tables:_ransome-note.js](https://github.com/adityawira15/hackerrank/blob/master/Tutorial/Cracking%20the%20Coding%20Interview%20Challenges/Data%20Structures/hash_tables:_ransome-note.js)
+* [heaps:_find-the-running-median.py](https://github.com/adityawira15/hackerrank/blob/master/Tutorial/Cracking%20the%20Coding%20Interview%20Challenges/Data%20Structures/heaps:_find-the-running-median.py)
 * [linked-lists:_detect-a-cicle.py](https://github.com/adityawira15/hackerrank/blob/master/Tutorial/Cracking%20the%20Coding%20Interview%20Challenges/Data%20Structures/linked-lists:_detect-a-cicle.py)
 * [queues:_a-tale-of-two-stacks.js](https://github.com/adityawira15/hackerrank/blob/master/Tutorial/Cracking%20the%20Coding%20Interview%20Challenges/Data%20Structures/queues:_a-tale-of-two-stacks.js)
 * [stacks:_balanced-brackets.js](https://github.com/adityawira15/hackerrank/blob/master/Tutorial/Cracking%20the%20Coding%20Interview%20Challenges/Data%20Structures/stacks:_balanced-brackets.js)
 * [string:_making-anagrams.js](https://github.com/adityawira15/hackerrank/blob/master/Tutorial/Cracking%20the%20Coding%20Interview%20Challenges/Data%20Structures/string:_making-anagrams.js)
 * [trees:_is-this-a-binary-search-tree-?.py](https://github.com/adityawira15/hackerrank/blob/master/Tutorial/Cracking%20the%20Coding%20Interview%20Challenges/Data%20Structures/trees:_is-this-a-binary-search-tree-%3F.py)
+* [tries:_contacts.py](https://github.com/adityawira15/hackerrank/blob/master/Tutorial/Cracking%20the%20Coding%20Interview%20Challenges/Data%20Structures/tries:_contacts.py)
 
 ##### Algorithms
+* [bfs:_shortests-reach-in-a-graph.py](https://github.com/adityawira15/hackerrank/blob/master/Tutorial/Cracking%20the%20Coding%20Interview%20Challenges/Algorithms/bfs:_shortests-reach-in-a-graph.py)
 * [binary-search:_ice-cream-parlor.js](https://github.com/adityawira15/hackerrank/blob/master/Tutorial/Cracking%20the%20Coding%20Interview%20Challenges/Algorithms/binary-search:_ice-cream-parlor.js)
 * [dfs:_connected-cell-in-a-grid.py](https://github.com/adityawira15/hackerrank/blob/master/Tutorial/Cracking%20the%20Coding%20Interview%20Challenges/Algorithms/dfs:_connected-cell-in-a-grid.py)
+* [merge-sort:_counting-inversion.java](https://github.com/adityawira15/hackerrank/blob/master/Tutorial/Cracking%20the%20Coding%20Interview%20Challenges/Algorithms/merge-sort:_counting-inversion.java)
 * [sorting:_buble-sort.js](https://github.com/adityawira15/hackerrank/blob/master/Tutorial/Cracking%20the%20Coding%20Interview%20Challenges/Algorithms/sorting:_buble-sort.js)
 * [sorting:_comporator.py](https://github.com/adityawira15/hackerrank/blob/master/Tutorial/Cracking%20the%20Coding%20Interview%20Challenges/Algorithms/sorting:_comporator.py)
 
